@@ -2,7 +2,7 @@
   <div class="topnav">
     <router-link to="/" class="logo">
       <svg class="icon">
-        <use xlink:href="#icon-king"></use>
+        <use xlink:href="#icon-laugh"></use>
       </svg>
     </router-link>
     <ul class="menu">
@@ -41,7 +41,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-$color: #007974;
+$color: #FFBF86;
 .topnav {
   color: $color;
   display: flex;

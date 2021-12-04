@@ -95,7 +95,7 @@ $aside-index : 10;
 }
 
 aside {
-  background: lightblue;
+  background: #FFE1C6;
   width: 150px;
   padding: 16px 0;
   position: fixed;
